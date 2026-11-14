@@ -1,0 +1,51 @@
+﻿Nom,Prenom,Age,Adresse,CNE,CIN,Courses,Notes,Gender
+Alami,Youssef,22,Casablanca,K000000001,MC100001,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[16, 14, 18, 12, 15, 17, 13]",Boy
+Bennani,Sara,21,Rabat,K000000002,MC100002,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 17, 16, 19, 15, 18, 14]",Girl
+Idrissi,Amine,23,Fes,K000000003,MC100003,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[12, 15, 14, 13, 16, 11, 17]",Boy
+Alaoui,Salma,20,Marrakech,K000000004,MC100004,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[19, 18, 17, 16, 20, 19, 18]",Girl
+Tazi,Omar,24,Tanger,K000000005,MC100005,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[10, 12, 14, 11, 13, 15, 16]",Boy
+Fassi,Meriem,22,Agadir,K000000006,MC100006,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[15, 16, 18, 14, 17, 19, 13]",Girl
+Amrani,Mehdi,25,Oujda,K000000007,MC100007,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[11, 13, 12, 14, 10, 15, 16]",Boy
+Chraibi,Nour,21,Kenitra,K000000008,MC100008,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[17, 18, 16, 15, 19, 17, 20]",Girl
+El Mansouri,Anas,23,El Jadida,K000000009,MC100009,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[13, 14, 15, 12, 16, 13, 17]",Boy
+Berrada,Imane,20,Safi,K000000010,MC100010,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[20, 19, 18, 17, 19, 20, 18]",Girl
+Tahiri,Ayoub,22,Rabat,K000000011,MC100011,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[10, 11, 13, 12, 14, 15, 16]",Boy
+Lahlou,Hiba,21,Casablanca,K000000012,MC100012,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[16, 17, 18, 15, 16, 19, 14]",Girl
+Moussaoui,Karim,24,Meknes,K000000013,MC100013,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[14, 13, 15, 16, 12, 14, 17]",Boy
+Bouzid,Salma,23,Nador,K000000014,MC100014,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 17, 19, 16, 18, 20, 17]",Girl
+Rahmani,Adil,26,Tetouan,K000000015,MC100015,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[9, 12, 10, 13, 11, 14, 15]",Boy
+Zerouali,Lina,20,Essaouira,K000000016,MC100016,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[17, 18, 16, 19, 15, 17, 18]",Girl
+El Fadili,Hamza,22,Beni Mellal,K000000017,MC100017,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[12, 14, 13, 15, 16, 12, 14]",Boy
+Daoudi,Maha,21,Settat,K000000018,MC100018,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[15, 16, 17, 18, 14, 19, 16]",Girl
+Kabbaj,Reda,25,Rabat,K000000019,MC100019,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[13, 12, 14, 15, 16, 13, 11]",Boy
+Benali,Chaimae,22,Marrakech,K000000020,MC100020,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[19, 18, 17, 20, 16, 19, 18]",Girl
+Skalli,Ismail,23,Casablanca,K000000021,MC100021,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[11, 13, 12, 14, 15, 10, 16]",Boy
+Ouazzani,Farah,20,Fes,K000000022,MC100022,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 17, 19, 16, 18, 17, 20]",Girl
+Boukili,Walid,24,Tanger,K000000023,MC100023,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[14, 15, 13, 12, 16, 14, 17]",Boy
+Mernissi,Asmae,21,Agadir,K000000024,MC100024,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[16, 17, 18, 19, 15, 16, 14]",Girl
+Naciri,Soufiane,22,Oujda,K000000025,MC100025,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[8, 11, 12, 10, 13, 14, 15]",Boy
+El Khatib,Malak,23,Kenitra,K000000026,MC100026,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[17, 18, 19, 16, 17, 20, 18]",Girl
+Bennis,Anouar,25,El Jadida,K000000027,MC100027,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[12, 13, 14, 15, 11, 16, 17]",Boy
+Ait Ali,Dina,20,Safi,K000000028,MC100028,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[19, 18, 17, 19, 20, 18, 19]",Girl
+Fikri,Marouane,24,Meknes,K000000029,MC100029,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[13, 14, 12, 15, 16, 13, 14]",Boy
+Lazrak,Ikram,22,Nador,K000000030,MC100030,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[15, 16, 17, 18, 19, 16, 15]",Girl
+Raji,Taha,21,Tetouan,K000000031,MC100031,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[16, 15, 14, 13, 17, 18, 16]",Boy
+Brahimi,Manal,23,Essaouira,K000000032,MC100032,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[10, 12, 14, 16, 15, 17, 18]",Girl
+Ziani,Anas,26,Beni Mellal,K000000033,MC100033,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 17, 16, 19, 18, 17, 20]",Boy
+Haddad,Samira,22,Settat,K000000034,MC100034,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[14, 15, 16, 17, 18, 19, 16]",Girl
+Belkacem,Rayan,20,Rabat,K000000035,MC100035,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[19, 18, 17, 16, 15, 20, 19]",Boy
+El Ghazi,Nadia,24,Casablanca,K000000036,MC100036,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[13, 14, 15, 16, 17, 18, 19]",Girl
+Mansouri,Adam,23,Marrakech,K000000037,MC100037,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[17, 16, 15, 14, 18, 19, 16]",Boy
+Saidi,Yasmine,21,Fes,K000000038,MC100038,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[12, 14, 16, 18, 17, 19, 20]",Girl
+Hariri,Mehdi,25,Tanger,K000000039,MC100039,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[15, 14, 13, 12, 16, 17, 18]",Boy
+Bakkali,Ines,22,Agadir,K000000040,MC100040,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[20, 19, 18, 17, 16, 20, 19]",Girl
+Ouhajji,Amine,23,Oujda,K000000041,MC100041,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[11, 12, 13, 14, 15, 16, 17]",Boy
+Chakir,Doha,20,Kenitra,K000000042,MC100042,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[16, 17, 18, 19, 20, 18, 17]",Girl
+El Malki,Zakaria,24,El Jadida,K000000043,MC100043,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[14, 13, 15, 16, 17, 18, 19]",Boy
+Azzouzi,Marwa,21,Safi,K000000044,MC100044,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 19, 17, 16, 20, 18, 19]",Girl
+Lamrani,Hicham,26,Meknes,K000000045,MC100045,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[9, 10, 11, 12, 13, 14, 15]",Boy
+Benjelloun,Rania,22,Nador,K000000046,MC100046,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[17, 18, 19, 20, 16, 17, 18]",Girl
+Kadiri,Samir,23,Tetouan,K000000047,MC100047,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[13, 14, 15, 16, 17, 18, 19]",Boy
+El Amrani,Leila,20,Essaouira,K000000048,MC100048,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[19, 18, 17, 16, 20, 19, 18]",Girl
+Mabrouk,Ayoub,25,Beni Mellal,K000000049,MC100049,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[15, 14, 13, 12, 16, 17, 18]",Boy
+Tounsi,Salma,21,Settat,K000000050,MC100050,"[""Python"", ""Mathematics"", ""SQL"", ""Statistics"", ""Java"", ""Artificial Intelligence"", ""English""]","[18, 17, 16, 19, 18, 20, 17]",Girl
